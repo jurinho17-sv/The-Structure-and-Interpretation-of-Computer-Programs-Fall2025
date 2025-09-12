@@ -1,31 +1,16 @@
 # CS 61A - Structure and Interpretation of Computer Programs
 
-<!-- Add your description here -->
+My name is Ju Ho Kim.
+I'll update my coursework here. (CS 61A - Fall 2025)
 
-## Course Information
+## Projects
 
-- **Semester:** Fall 2025
-- **Institution:** UC Berkeley
-- **Course:** CS 61A - Structure and Interpretation of Computer Programs
+## Labs
 
-## Repository Structure
+### Lab 01: Functions
 
-```
-├── hw/          # Homework assignments
-├── lab/         # Lab assignments
-│   ├── lab00/   # Lab 0: Getting Started
-│   └── lab01/   # Lab 1: Variables & Functions, Control
-└── projects/    # Course projects
-```
+## HWs
 
-## Getting Started
+### HW 01: Functions, Control
 
-<!-- Add setup instructions here -->
-
-## Notes
-
-<!-- Add any additional notes or resources here -->
-
----
-
-*This repository contains coursework for educational purposes.*
+### HW 01: Functions, Control
