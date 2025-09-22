@@ -144,4 +144,3 @@ def cycle(f1, f2, f3):
             return x
         return h
     return g
-

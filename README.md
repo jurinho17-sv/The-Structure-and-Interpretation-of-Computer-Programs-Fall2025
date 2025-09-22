@@ -5,6 +5,8 @@ I'll update my coursework here. (CS 61A - Fall 2025)
 
 ## Projects
 
+### Hog
+
 ---
 
 ## Labs
